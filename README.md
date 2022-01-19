@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gisele Mwizera
 - 👀 Interested in sports and adventure
 - 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on react based projects
+- 💞️ I’m looking to collaborate on any react based projects
 - 📫 How to reach me amegisle96@gmail.com
 
 <!---
